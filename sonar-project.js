@@ -1,3 +1,5 @@
+//https://nickkorbel.com/2020/02/05/configuring-sonar-with-a-create-react-app-in-typescript/
+
 const sonarqubeScanner = require("sonarqube-scanner");
 sonarqubeScanner(
   {
